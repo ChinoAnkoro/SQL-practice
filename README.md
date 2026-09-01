@@ -69,3 +69,4 @@ Eコマースサイトにおける日次売上データの処理という、簡�
 4.  テストデータ生成や集計を行うPL/pgSQL関数、バッチ処理用のシェルスクリプトを作成してください。
 
 課題の詳細やヒントは`question/assignment.md`や`question/pgadmin_guide.md`に記載されていますので、必ず参照してください。
+# SQL-practice
